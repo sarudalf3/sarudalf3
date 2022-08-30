@@ -7,7 +7,6 @@ I'm Rubén, an enthusiastic data scientist.
 - 🔭 I’m currently working on minner plant maintenance
 - 🌱 I’m currently learning RNN (Neural Networks)
 - 🤔 I’m looking for taking conciensses about climate change
-- 📫 How to reach me: [twitter.com/sarudalf](https://twitter.com/sarudalf)
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: I do love travel, I have visited more than 15 countries in 3 continents 
 - 📑 resume: [My Github website (Spanish)](https://sarudalf3.github.io/)
