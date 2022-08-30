@@ -1,6 +1,6 @@
 ### Hi there ✌️ 
 
-I'm Rubén, an enthusiastic data scientist.
+I'm Rubén, an enthusiastic data scientist from Chile, South America.
 
 #### Bio
 
