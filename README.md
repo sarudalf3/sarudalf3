@@ -1,10 +1,10 @@
 ### Hi there ✌️ 
 
-I'm Rubén, an enthusiastic data scientist from Chile, South America.
+I'm Rubén Miranda, an enthusiastic data scientist from Chile, South America.
 
 #### Bio
 
-- 🔭 I’m currently working on minner plant maintenance
+- 🔭 I’m currently working on minner plant maintenance as data analyst (python) and data visualizer (power BI / Tableau)
 - 🌱 I’m currently learning RNN (Neural Networks)
 - 🤔 I’m looking for taking conciensses about climate change
 - 😄 Pronouns: He/him/his
@@ -15,7 +15,7 @@ I'm Rubén, an enthusiastic data scientist from Chile, South America.
 
 - ✨ Make up a stronger knoweledge in text analysis
 - :fire: Interested in social media analysis
-- :calendar: Looking for data scientist to analyse different databases  
+- :calendar: Looking for a senior position as data scientist  
 
 
 #### Connect With Me
