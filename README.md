@@ -5,7 +5,7 @@ I'm Rubén Miranda, an enthusiastic data scientist from Chile, South America.
 #### Bio
 
 - 🔭 I’m currently working on mining plant maintenance as data analyst (python) and data visualizer (power BI / Tableau)
-- 🌱 I’m currently learning RNN (Neural Networks)
+- 🌱 I’m currently learning text analysis and cloud services.
 - 🤔 I concern the consequences of climate change 
 - 😄 Pronouns: He/him/El
 - ⚡ Fun fact: I do love travel, I have visited more than 15 countries in 3 continents 
